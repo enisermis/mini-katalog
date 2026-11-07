@@ -30,8 +30,8 @@ Uygulamada ürünler kart şeklinde listeleniyor. Ürünler aranabiliyor ve kate
 2. Projeyi indirin ve klasörüne girin:
 
    ```bash
-   git clone <repo-adresi>
-   cd <repo-klasoru>
+   git clone https://github.com/enisermis/mini-katalog.git
+   cd mini-katalog
    ```
 
 3. Bağımlılıkları yükleyin:
