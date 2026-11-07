@@ -1,0 +1,261 @@
+{
+  "source": "https://wantapi.com/products.php",
+  "note": "Eğitim ve demo amaçlı örnek veri (wantapi.com). Açıklamaları Türkçeye çevirdim.",
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 15 Pro",
+      "tagline": "Titanyum. Çok sağlam. Çok hafif. Çok Pro.",
+      "description": "iPhone 15 Pro, havacılık sınıfı titanyum tasarıma sahip ilk iPhone; bu sayede her zamankinden daha hafif ve dayanıklı. Oyunlarda yeni bir performans seviyesi ve verimlilik sunan A17 Pro çip ile çalışıyor. Klasik sessize alma düğmesinin yerini, sevdiğin özelliklere hızlıca ulaşmanı sağlayan özelleştirilebilir Eylem düğmesi alıyor. 48 MP ana kamera ve telefoto lensli profesyonel kamera sistemi her ışıkta etkileyici fotoğraflar çekiyor.",
+      "price": 999.0,
+      "currency": "USD",
+      "image": "assets/images/iphone.jpg",
+      "specs": {
+        "chip": "A17 Pro",
+        "material": "Titanyum",
+        "camera": "48 MP ana"
+      },
+      "category": "iPhone"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 15",
+      "tagline": "Yeni kamera. Yeni tasarım. Yepyeni bir his.",
+      "description": "iPhone 15, renkli arka cam ve kavisli alüminyum kasasıyla bambaşka bir tasarıma sahip. Bildirimleri ve canlı etkinlikleri kaçırmaman için Dynamic Island ile geliyor. 48 MP ana kamera çok yüksek çözünürlüklü fotoğraflar çekerken 2x telefoto seçeneği adeta üçüncü bir kamera gibi çalışıyor. A16 Bionic çip gelişmiş fotoğraf işlemeyi kolayca yapıyor. USB-C girişi sayesinde Mac ve iPad ile aynı kabloyu kullanabiliyorsun.",
+      "price": 799.0,
+      "currency": "USD",
+      "image": "assets/images/iphone_pink.jpg",
+      "specs": {
+        "chip": "A16 Bionic",
+        "material": "Alüminyum",
+        "camera": "48 MP ana"
+      },
+      "category": "iPhone"
+    },
+    {
+      "id": 3,
+      "name": "iPhone 15 Plus",
+      "tagline": "Dev ekran. Dev pil ömrü.",
+      "description": "iPhone 15 Plus, içeriklerini canlı renkler ve inanılmaz detaylarla gösteren büyük Super Retina XDR ekrana sahip. Uzun pil ömrü sayesinde şarjın biter mi diye düşünmeden gün boyu kullanabiliyorsun. A16 Bionic çip tüm uygulama ve oyunlarda akıcı performans sunuyor. Gelişmiş 48 MP ana kamera sistemi yeni nesil portre fotoğraflarını destekliyor.",
+      "price": 899.0,
+      "currency": "USD",
+      "image": "assets/images/iphone_yellow.jpg",
+      "specs": {
+        "chip": "A16 Bionic",
+        "display": "6,7 inç",
+        "battery": "Gün boyu"
+      },
+      "category": "iPhone"
+    },
+    {
+      "id": 4,
+      "name": "iPhone 14",
+      "tagline": "Harika.",
+      "description": "iPhone 14, pil ömrü ve dayanıklılıkta büyük bir sıçrama yapıyor. Ön yüzündeki Ceramic Shield, akıllı telefon camlarının hepsinden daha sağlam. Gelişmiş çift kamera sistemi parlak güneşten loş ortamlara kadar her ışıkta güzel fotoğraflar çekiyor. 5 çekirdekli GPU'lu A15 Bionic çip ışık hızında performans sağlıyor. Kaza Algılama özelliği sayesinde sen arayamadığında yardım çağırabiliyor.",
+      "price": 699.0,
+      "currency": "USD",
+      "image": "assets/images/iphone_blue.jpg",
+      "specs": {
+        "chip": "A15 Bionic",
+        "display": "6,1 inç",
+        "camera": "Çift kamera"
+      },
+      "category": "iPhone"
+    },
+    {
+      "id": 5,
+      "name": "iPhone SE",
+      "tagline": "Gücünü de sev, fiyatını da.",
+      "description": "iPhone SE, güçlü A15 Bionic çipi cebine tam oturan kompakt bir tasarıma sığdırıyor. 4,7 inç Retina HD ekranı ve Touch ID'li ana ekran düğmesiyle geliyor. Smart HDR 4 ve Deep Fusion destekli kamera sistemi güzel fotoğraflar çekiyor. Suya ve toza dayanıklı yapısıyla iPhone performansına sahip olmanın en uygun fiyatlı yolu.",
+      "price": 429.0,
+      "currency": "USD",
+      "image": "assets/images/iphone_se.jpg",
+      "specs": {
+        "chip": "A15 Bionic",
+        "display": "4,7 inç",
+        "id": "Touch ID"
+      },
+      "category": "iPhone"
+    },
+    {
+      "id": 6,
+      "name": "MacBook Pro 16\"",
+      "tagline": "Akıllara durgunluk veren. Başları çeviren.",
+      "description": "16 inç MacBook Pro, aşırı performans için M3 Max çiple çalışan şimdiye kadarki en gelişmiş Mac dizüstü. Liquid Retina XDR ekranı HDR içeriklerde 1000 nit sürekli parlaklık sunuyor. 22 saate kadar pil ömrüyle en ağır projelerde bile gün boyu çalışabiliyorsun. HDMI, SDXC kart yuvası ve MagSafe 3 gibi birçok bağlantı noktası var. Yoğun iş yükünü kolayca kaldıracak bir dizüstü isteyen profesyoneller için tasarlandı.",
+      "price": 2499.0,
+      "currency": "USD",
+      "image": "assets/images/macbook.jpg",
+      "specs": {
+        "chip": "M3 Max",
+        "display": "Liquid Retina XDR",
+        "battery": "22 saat"
+      },
+      "category": "Mac"
+    },
+    {
+      "id": 7,
+      "name": "MacBook Pro 14\"",
+      "tagline": "Sonuna kadar Pro.",
+      "description": "14 inç MacBook Pro, ciddi iş yükleri için güç ve verimlilik sunan M3 Pro çiple geliyor. Büyük kardeşiyle aynı Liquid Retina XDR ekranı daha kompakt bir gövdede sunuyor. Altı hoparlörlü ses sistemi odayı net bir sesle dolduruyor. İki harici ekranı destekliyor ve pili uzun süre dayanıyor. Video düzenlerken de müzik yaparken de performanstan ödün vermiyor.",
+      "price": 1599.0,
+      "currency": "USD",
+      "image": "assets/images/macbook_silver.jpg",
+      "specs": {
+        "chip": "M3 Pro",
+        "display": "14,2 inç",
+        "ports": "HDMI, SDXC"
+      },
+      "category": "Mac"
+    },
+    {
+      "id": 8,
+      "name": "MacBook Air 15\"",
+      "tagline": "Etkileyici derecede büyük.",
+      "description": "15 inç MacBook Air, geniş ekranına rağmen inanılmaz ince ve hafif. M2 çip sayesinde işten eğlenceye her şeyde hızlı ve verimli çalışıyor. 15,3 inç Liquid Retina ekran sevdiğin şeyleri görmen için daha fazla alan sunuyor. Fansız tasarımı sayesinde yoğun işlerde bile tamamen sessiz çalışıyor. Gün boyu süren pil ömrüyle taşınabilir dizüstü kavramını yeniden tanımlıyor.",
+      "price": 1299.0,
+      "currency": "USD",
+      "image": "assets/images/macbook_air.jpg",
+      "specs": {
+        "chip": "M2",
+        "weight": "1,5 kg",
+        "design": "Fansız"
+      },
+      "category": "Mac"
+    },
+    {
+      "id": 9,
+      "name": "MacBook Air 13\"",
+      "tagline": "Hafife alma.",
+      "description": "13 inç MacBook Air, taşınabilirliği M2 çipin gücüyle birleştirdiği için dünyanın en çok satan dizüstülerinden biri. Yeniden tasarlanan ince alüminyum kasası uzun ömürlü ve dayanıklı. 13,6 inç Liquid Retina ekran 1 milyar rengi destekliyor ve yazıları çok net gösteriyor. 1080p FaceTime HD kamerası görüntülü görüşmelerde iyi görünmeni sağlıyor. 18 saate kadar pil ömrüyle şarj aletini evde bırakabilirsin.",
+      "price": 1099.0,
+      "currency": "USD",
+      "image": "assets/images/macbook_starlight.jpg",
+      "specs": {
+        "chip": "M2",
+        "battery": "18 saat",
+        "display": "13,6 inç"
+      },
+      "category": "Mac"
+    },
+    {
+      "id": 10,
+      "name": "iMac",
+      "tagline": "Güç dolu.",
+      "description": "iMac, artık daha da hızlı performans için M3 çiple çalışan herkes için hepsi bir arada bilgisayar. 24 inç 4,5K Retina ekranı 500 nit parlaklık ve bir milyardan fazla renk sunuyor. İnce tasarımı, her odayı renklendirecek yedi canlı renk seçeneğiyle geliyor. 1080p FaceTime HD kamera ve stüdyo kalitesinde mikrofonlar içeriyor. Renk uyumlu aksesuarlarıyla her detayı şıklık ve sadelik için tasarlanmış.",
+      "price": 1299.0,
+      "currency": "USD",
+      "image": "assets/images/imac.jpg",
+      "specs": {
+        "chip": "M3",
+        "display": "24 inç 4,5K Retina",
+        "colors": "7 canlı renk"
+      },
+      "category": "Mac"
+    },
+    {
+      "id": 11,
+      "name": "iPad Pro 12.9\"",
+      "tagline": "M2 ile süper güçlü.",
+      "description": "12,9 inç iPad Pro, çığır açan performans sunan M2 çip ile en üst düzey iPad deneyimini sunuyor. Liquid Retina XDR ekranı 1.000.000:1 kontrast oranıyla gerçeğe yakın detaylar gösteriyor. Apple Pencil'ın üzerinde gezinme desteği sayesinde çizmeden önce nereye çizeceğini görebiliyorsun. Çok hızlı kablosuz bağlantıyla yüksek performanslı aksesuarlara bağlanabiliyor. Birçok yaratıcı profesyonel için dizüstünün yerini tutabilecek çok yönlü bir cihaz.",
+      "price": 1099.0,
+      "currency": "USD",
+      "image": "assets/images/ipad.jpg",
+      "specs": {
+        "chip": "M2",
+        "screen": "XDR",
+        "pencil": "Gezinme desteği"
+      },
+      "category": "iPad"
+    },
+    {
+      "id": 14,
+      "name": "Apple Watch Ultra 2",
+      "tagline": "Bir üst seviye.",
+      "description": "Apple Watch Ultra 2, dayanıklılık sporcuları ve maceraseverler için tasarlanmış en sağlam ve en yetenekli Apple Watch. Korozyona dayanıklı hafif titanyum kasası safir camı koruyor. 3000 nit ile Apple'ın şimdiye kadarki en parlak ekranı, sert güneş ışığında bile okunabiliyor. Çift frekanslı GPS zorlu ortamlarda en doğru konum bilgisini veriyor. 36 saate kadar pil ömrüyle sınırlarını zorlamana eşlik ediyor.",
+      "price": 799.0,
+      "currency": "USD",
+      "image": "assets/images/watch.jpg",
+      "specs": {
+        "case": "Titanyum",
+        "brightness": "3000 nit",
+        "gps": "Çift frekanslı"
+      },
+      "category": "Watch"
+    },
+    {
+      "id": 16,
+      "name": "Apple Vision Pro",
+      "tagline": "Uzamsal bilişime hoş geldin.",
+      "description": "Apple Vision Pro, dijital içerikleri gerçek dünyanla kusursuzca birleştiren devrim niteliğinde bir uzamsal bilgisayar. Gözlerin, ellerin ve sesinle kontrol ettiğin tamamen üç boyutlu bir arayüz sunuyor. İki mikro OLED ekranda toplam 23 milyon piksel bulunuyor. Uzamsal Ses, sesin etrafındaki ortamdan geliyormuş gibi hissettiriyor. Uygulamaları kullanma, eğlenme ve insanlarla iletişim kurma şeklini değiştiriyor.",
+      "price": 3499.0,
+      "currency": "USD",
+      "image": "assets/images/vision_pro.jpg",
+      "specs": {
+        "os": "visionOS",
+        "display": "Mikro OLED",
+        "control": "Göz, el, ses"
+      },
+      "category": "Ses & Diğer"
+    },
+    {
+      "id": 17,
+      "name": "AirPods Pro (2nd Gen)",
+      "tagline": "Uyarlanabilir Ses.",
+      "description": "AirPods Pro (2. nesil), daha akıllı gürültü engelleme ve üstün ses sunan yeni H2 çiple geliyor. Uyarlanabilir Ses, arka plandaki gürültüyü azaltırken dikkat etmen gereken seslere öncelik veriyor. Önceki nesle göre 2 kata kadar daha fazla Aktif Gürültü Engelleme sunarak sana sessiz bir alan yaratıyor. MagSafe şarj kutusu (USB-C) artık Hassas Konum Bulma ve dahili hoparlöre sahip. Kişiselleştirilmiş Uzamsal Ses, sesi kulağının şekline göre ayarlıyor.",
+      "price": 249.0,
+      "currency": "USD",
+      "image": "assets/images/airpods.jpg",
+      "specs": {
+        "chip": "H2",
+        "audio": "Uzamsal Ses",
+        "case": "USB-C"
+      },
+      "category": "Ses & Diğer"
+    },
+    {
+      "id": 18,
+      "name": "AirPods Max",
+      "tagline": "Odak noktası ses.",
+      "description": "AirPods Max, Apple tasarımı dinamik sürücüsüyle yüksek kaliteli ses sunarak kulak üstü kulaklıkları yeniden tanımlıyor. Aktif Gürültü Engelleme dış sesleri keserek dinlediğin şeye tamamen odaklanmanı sağlıyor. Örgü file kafa bandı ve kulak yastıkları mükemmel ses yalıtımı ve gün boyu konfor için tasarlandı. Uzamsal Ses ve dinamik kafa takibi sesleri etrafına yerleştiriyor.",
+      "price": 549.0,
+      "currency": "USD",
+      "image": "assets/images/airpods_max.jpg",
+      "specs": {
+        "driver": "Dinamik",
+        "cancellation": "Aktif gürültü engelleme",
+        "materials": "Örgü file"
+      },
+      "category": "Ses & Diğer"
+    },
+    {
+      "id": 19,
+      "name": "HomePod",
+      "tagline": "Derin ses.",
+      "description": "HomePod, bulunduğu odaya uyum sağlayarak yüksek kaliteli ses veren güçlü bir hoparlör. Yüksek hareketli woofer ve tweeter dizisi derin baslar ve kristal netliğinde tizler oluşturuyor. Oda algılama teknolojisi sayesinde sesi bulunduğu konuma göre otomatik ayarlıyor. Apple cihazlarınla sorunsuz çalışıyor ve akıllı ev merkezi olarak kullanılabiliyor. Dahili Siri, günlük işlerde ve müziğini kontrol etmede sana yardım ediyor.",
+      "price": 299.0,
+      "currency": "USD",
+      "image": "assets/images/homepod.jpg",
+      "specs": {
+        "audio": "Hesaplamalı ses",
+        "home": "Akıllı ev merkezi",
+        "sensing": "Oda algılama"
+      },
+      "category": "Ses & Diğer"
+    },
+    {
+      "id": 20,
+      "name": "HomePod Mini",
+      "tagline": "Renk patlaması.",
+      "description": "HomePod Mini, boyutuna göre beklenmedik derecede güçlü ses veren yenilik dolu bir hoparlör. Sadece 8,4 cm boyunda olmasına rağmen tüm odayı 360 derece zengin sesle dolduruyor. iPhone'unla zahmetsizce çalışıyor; telefonunu yaklaştırman müziği hoparlöre aktarmak için yeterli. Evin farklı yerlerine birden fazla HomePod mini koyarak bağlantılı bir ses sistemi kurabilirsin. Akıllı evini yönetmene yardım eden akıllı bir asistan olarak da çalışıyor.",
+      "price": 99.0,
+      "currency": "USD",
+      "image": "assets/images/homepod_mini.jpg",
+      "specs": {
+        "size": "8,4 cm",
+        "audio": "360 derece",
+        "colors": "5 renk"
+      },
+      "category": "Ses & Diğer"
+    }
+  ]
+}
